@@ -23,5 +23,5 @@ function tier1challengefun(){
 function replaceAnd() {
 	let catPara = document.getElementById("two");
 	let regex = /bird/;
-	catPara.innerHTML = catPara.innerHTML.replace(regex, 'meeeeeooooowww')
+	catPara.innerHTML = catPara.innerHTML.replace(regex, 'MEOW')
 }
