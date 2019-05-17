@@ -25,3 +25,15 @@ function replaceAnd() {
 	let regex = /bird/;
 	catPara.innerHTML = catPara.innerHTML.replace(regex, 'MEOW')
 }
+
+// tried to highlight. Sad panda.
+/**function highlight(text) {
+	let inputText = document.getElementById("inputText");
+	let innerHTML = inputText.innerHTML;
+	let index = innerHTML.indexOf(text);
+	if (index >= 0) {
+		innerHTML = innerHTML.substring(0,index) + "<span class='highlight'>" + innerHTML.substring(index,index+text.length) + "</span>" + innerHTML.substring(index + text.length);
+		inputText.innerHTML = innerHTML;
+	}
+}
+**/
