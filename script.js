@@ -15,7 +15,7 @@ function tier1challengefun(){
 	document.getElementById("three").style.backgroundColor = "aqua";
 	document.getElementById("three").style.color = "black";
 	document.getElementById("three").style.fontFamily = "courier new";
-	document.getElementById("three").style.fontWeight = "italic";
+	document.getElementById("three").style.fontWeight = "bold";
 
 }
 
