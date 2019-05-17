@@ -19,7 +19,7 @@ function tier1challengefun(){
 
 }
 
-// every 'bird' in cat ipsum will be replaced with every click
+// every 'bird' in cat ipsum will be replaced and switched with meow with every click
 function replaceAnd() {
 	let catPara = document.getElementById("two");
 	let regex = /bird/;
