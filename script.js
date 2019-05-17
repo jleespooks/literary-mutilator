@@ -40,5 +40,5 @@ function replaceAnd() {
 
 // not the right type of highlight I wanted. Tyring to target one word.
 function highlight() {
-	document.getElementById("three").style.backgroundColor = '#fdff32';
+	document.getElementById("three").style.backgroundColor = "#fdff32";
 }
